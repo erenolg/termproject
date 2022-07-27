@@ -1,0 +1,44 @@
+m, n = input().split()
+c = input()
+k = int(input())
+vals = [input() for i in range(k)]
+result = [[" " for k in range(int(n))] for j in range(int(m))]
+for val in vals:
+    result[int(val.split()[0])][int(val.split()[1])] = c
+for i in result:
+    print("".join(i))
+
+
+def str_to_lst(vals):
+    result = [[0, 0] for i in range(len(vals))]
+    for i in range(len(vals)):
+        result[i][0] = int(vals[i].split()[0])
+        result[i][1] = int(vals[i].split()[1])
+    return result
+
+
+def ss(lst, leaders):
+    my_val = lst[0]
+    leader = []
+    adjacents = []
+    r, l, u, d = list(my_val[0], my_val[1] + 1), list(my_val[0], my_val[1] - 1), list(my_val[0] + 1, my_val[1]), list(my_val[0] - 1, my_val[1])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+Who has the Highest Number of Gold Medals in Olympic History?,a) Larisa Latynina,b) Mark Spitz,c) Michael Phelps,d) Saina Nehwal,c
+What is the 100m World Record of Usain Bolt?,a) 14.35 Sec,b) 9.58 Sec,c) 9.05 Sec,d) 10.12 Sec,b
+How many times has India won the Men’s Hockey World Cup in the Olympics?,a) 3,b) 2,c) 1,d) 0,c
+Which Female has the Most Olympic Gold Medals in Olympic History?,a) Birgit Fischer,b) Marit Bjorgen,c) Larisa Latynina,d) Jenny Thompson,c
+What is the National Game of the USA?,a) Tennis,b) Soccer,c) Baseball,d) Basket Ball,c
+Who has won 23 Grand Slam Singles Titles in Women Tennis?,a) Sania Mirza,b) Serena Williams,c) Ashleigh Barty,d) Venus Williams,b
+Which Sport does Roger Federer play?,a) Volleyball,b) Tennis,c) Table Tennis,d) Badminton,b
+What is the National Sports of Canada?,a) Cricket,b) Ice hockey,c) Field Hockey,d) Football,b
+What is the Distance of the Marathon Race?,a) 100 Km,b) 52.195 Km,c) 42.195 Km,d) 10 Km,c
+After how many Years the Olympic Games are held?,a) 3 Years,b) 4 Years,c) 2 Years,d) 1 Year,b
+What is Magnus Carlsen famous for?,a) Ludo,b) Chess,c) Poker,d) Billiards,b
+Which Sport has the Term “Butterfly Stroke”?,a) Table Tennis,b) Boating,c) Swiming,d) MotoGP,c
+Which Country does Lionel Messi belong to?,a) PSG,b) Argentina,c) Portugal,d) FC Barcelona,b
+Who is the Only Person to Win 6 Olympic Gold Medals in Archery?,a) Justin Huish,b) Hubert Van Innis,c) Kim Soo-Nyung,d) Park Kyung-mo,b
+Which Country Won the most FIFA World Cup?,a) Germany,b) Argentina,c) Brazil,d) France,c
+What is the National Sports of China?,a) Table Tennis,b) Baseball,c) Cricket,d) Swimming,a
+When was the first FIFA World Cup held?,a) 1930,b) 1925,c) 1934,d) 1818,a
+What is the Women’s World Record of the 100-Meter Dash?,a) 12.35 Sec,b) 10.45 Sec,c) 9.55 Sec,d) 10.49 Sec,d

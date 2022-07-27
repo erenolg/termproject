@@ -1,0 +1,12 @@
+What does HTML stand for?,a) Hyper Trainer Marking Language,b) Hyper Text Marketing Language,c) Hyper Text Markup Language,d) Hyper Text Markup Leveler,c
+How to define a function in Python?,a) def,b) func,c) function,d) dec,a
+What is called when a function is defined inside a class?,a) Module,b) Class,c) Another function,d) Method,d
+What is the output of the following code: print(9//2),a) 4.5,b) 4.0,c) 4,d) Error,c
+Given a function that does not return any value; what value is shown when executed at the shell?,a) int,b) bool,c) void,d) None,d
+To start Python from the command prompt use the command ______,a) execute python,b) go python,c) python,d) run python,c
+Which of these is not a core data type?,a) Lists,b) Dictionary,c) Tuples,d) Class,d
+Which of the following function convert a string to a float in python?,a) int(x),b) long(x),c) float(x),d) str(x),c
+What is the output of the expression : 3*1**3,a) 27,b) 9,c) 3,d) 1,c
+What does CSS stand for?,a) Creative Style Sheets,b) Cascading Style Sheets,c) Colorful Style Sheets,d) Computer Style Sheets,b
+What does CSV mean?,a) Comma Seperated Version,b) Comma Seperated Values,c) Colorful Style Version,d) Capitalized Style Sheets,b
+Who invented Python?,a) Guido van Rossum,b) Leonardo da Vinci,c) Tyler Durden,d) Polat Alemdar,a

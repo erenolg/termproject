@@ -1,0 +1,37 @@
+password = input()[1:-1]
+
+def is_okay(try_):
+    pass
+
+
+
+
+
+control = [0 for i in range(3)]
+for i in password:
+    if i.isdigit():
+        control[0] = 1
+    elif i.islower():
+        control[1] = 1
+    elif i.isupper():
+        control[2] = 1
+    else:
+        continue
+
+length = len(password)
+
+def remove_tekrar(pw):
+    counter = 0
+    new = ""
+    for i in range(len(pw)-2):
+        if pw[i:i+2] == pw[i+2] * 2:
+            counter += 1
+            continue
+        new += pw[i]
+    new += pw[-2:]
+    return new, counter
+
+"""if sum(control) == 3 and length > 20:
+    remove_tekrar()"""
+
+print(remove_tekrar("aaaaaahhnaberkkkkkkk"))
